@@ -1,5 +1,5 @@
 # :hamburger: Java Burger Quizz :hamburger:
-Java Burger Quizz - Proofs : mag:
+Java Burger Quizz - Proofs :mag:
 
 Hi guys! :bowtie:  
 Here, You'll find sources that answer to every questions of the JBQ.
